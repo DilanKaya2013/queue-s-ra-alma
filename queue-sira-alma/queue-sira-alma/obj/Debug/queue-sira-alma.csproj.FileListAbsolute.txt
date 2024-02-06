@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\queue-sira-alma\queue-sira-alma\bin\Debug\queue-sira-alma.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\queue-sira-alma\queue-sira-alma\bin\Debug\queue-sira-alma.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\queue-sira-alma\queue-sira-alma\bin\Debug\queue-sira-alma.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\queue-sira-alma\queue-sira-alma\obj\Debug\queue-sira-alma.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\queue-sira-alma\queue-sira-alma\obj\Debug\queue-sira-alma.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\queue-sira-alma\queue-sira-alma\obj\Debug\queue_sira_alma.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\queue-sira-alma\queue-sira-alma\obj\Debug\queue_sira_alma.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\queue-sira-alma\queue-sira-alma\obj\Debug\queue-sira-alma.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\queue-sira-alma\queue-sira-alma\obj\Debug\queue-sira-alma.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\queue-sira-alma\queue-sira-alma\obj\Debug\queue-sira-alma.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\queue-sira-alma\queue-sira-alma\obj\Debug\queue-sira-alma.pdb
